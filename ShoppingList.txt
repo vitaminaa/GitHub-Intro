@@ -5,4 +5,4 @@ Oranges
 BAnanans
 Cherries
 carrots
-ceareal
+cereal
